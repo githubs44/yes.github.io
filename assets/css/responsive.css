@@ -1,0 +1,521 @@
+@media (max-width:600px) {
+    .text h4{
+        font-size: 5vw;
+        color: #000;
+        line-height: 4.5vw;
+     
+    }
+    .text p{
+        font-size: 2.3vw;
+        color: #000;
+        line-height: 2.3vw;
+        width: 35%;
+        margin: auto;
+        margin-top: 1vw;
+        
+     
+    }
+    .content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3vw;
+        flex-direction: column;
+        gap: .8vw;
+    }
+    .content .left{
+        width: 80%;
+    }
+    .content .left img{
+        width: 37vw;
+        display: flex;
+        margin: auto;
+    }
+    .content .right{
+        width: 80%;
+    }
+    .content .right p{
+        width: 80%;
+        font-size:2.3vw;
+        color: #000;
+        line-height: 2.5vw;
+        font-weight: 500;
+        text-align: center;
+        margin: auto;
+       
+     
+    }
+    .content .right img{
+        width: 10vw;
+        display: flex;
+        margin-top: 3vw;
+        transition: .4s;
+        display: flex;
+        margin: auto;
+        margin-top: 1.5vw;
+      
+    }
+    .content .right  img:hover{
+        transform: translateX(.3vw);
+    }
+    .about-sec .hedr{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4vw;
+    }
+    .about-sec .hedr img{
+        width: 6vw;
+    
+    }
+    .about-sec .hedr h4{
+        font-size: 4vw;
+        color: #000;
+        line-height: 4.5vw   
+    }
+       /* ----- */
+    .token-sec .hedr{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4vw;
+        padding-top: 10vw;
+    }
+    .token-sec .hedr img{
+        width: 6vw;
+    
+    }
+    .token-sec .hedr h4{
+        font-size: 4vw;
+        color: #000;
+        line-height: 4.5vw
+    
+    }
+    .box1 p{
+        position: absolute;
+        color: #000;
+        font-size: 2vw;
+        left: 20%;
+        top: 7%;
+        font-weight: 600;
+    }
+    .box2 p{
+        position: absolute;
+        color: #000;
+        font-size:2vw;
+        left: 33%;
+        top: 7%;
+        font-weight: 600;
+    }
+    .box3 p{
+        position: absolute;
+        color: #000;
+        font-size: 2vw;
+        left: 35%;
+        top: 7%;
+        font-weight: 600;
+    }
+    /* ---------------------------- */
+    .road-sec .hedr{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4vw;
+        padding-top: 3vw;
+        padding-bottom: 5vw;
+    }
+    .road-sec .hedr img{
+        width: 6vw;
+    
+    }
+    .road-sec .hedr h4{
+        font-size: 4vw;
+        color: #000;
+        line-height: 4.5vw
+    
+    }
+    .phs1{
+        display: flex;
+        align-items: center;
+        position: absolute;
+        left: 10%;
+        top: 27%;
+        gap: 5vw;
+    }
+    .phs1 .left1 img{
+        width: 11vw;
+    }
+    .phs1 .right2 img{
+        width: 10vw;
+    }
+    .phs1 .right2 ul li{
+        font-size: 2vw;
+        color: #000;
+        font-family: patrick;
+        line-height:2.8vw;
+        list-style: disc;
+        
+    }
+    .phs1 .right2 ul {
+        margin-top: .6vw;
+    }
+ 
+    
+
+    .phs3{
+        display: flex;
+        align-items: center;
+        position: absolute;
+        left:10%;
+        top: 64%;
+        gap: 5vw;
+    }
+    .phs3 .left1 img{
+        width: 11vw;
+    }
+    .phs3 .right2 img{
+        width: 10vw;
+    }
+    .phs3 .right2 ul li{
+        font-size: 2vw;
+        color: #000;
+        font-family: patrick;
+        line-height:2.8vw;
+        list-style: disc;
+        
+    }
+    .phs3 .right2 ul {
+        margin-top: .6vw;
+    }
+
+    
+.phs2{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 81%;
+    left: 59%;
+    gap: 2vw;
+}
+.phs2 .left1 img{
+    width: 11vw;
+}
+.phs2 .right2 img{
+    width: 10vw;
+}
+.phs2 .right2 ul li{
+    font-size:2vw;
+    color: #000;
+    font-family: patrick;
+    line-height: 2.8vw;
+    list-style: disc;
+
+    
+}
+.phs2 .right2 ul {
+    margin-top: .5vw;
+}
+
+
+    
+.phs4{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 41%;
+    left: 59%;
+    gap: 2vw;
+}
+.phs4 .left1 img{
+    width: 11vw;
+}
+.phs4 .right2 img{
+    width: 10vw;
+}
+.phs4 .right2 ul li{
+    font-size:2vw;
+    color: #000;
+    font-family: patrick;
+    line-height: 2.8vw;
+    list-style: disc;
+
+    
+}
+.phs4 .right2 ul {
+    margin-top: .5vw;
+}
+/* ------ */
+.n1{
+    position: absolute;
+    width: 4.6vw;
+    top: 32%;
+    left: 48.5%;
+}
+.n2{
+    position: absolute;
+    width: 4.6vw;
+    top: 52%;
+    left: 49%;
+}
+.n3{
+    position: absolute;
+    width: 4.6vw;
+    top:73%;
+    left: 48.5%;
+}
+.n4{
+    position: absolute;
+    width: 4.6vw;
+    top: 91%;
+    left: 49.5%;
+}
+
+.l1{
+    position: absolute;
+    width:23vw;
+    top: 34%;
+    left: 54.6%;
+}
+.l2{
+    position: absolute;
+    width:23vw;
+    top: 55%;
+    left: 25%;
+}
+.l3{
+    position: absolute;
+    width:23vw;
+    top: 76%;
+    left: 54.6%
+}
+.l4{
+    position: absolute;
+    width:23vw;
+    top: 93.6%;
+    left: 25%;
+}
+.r1{
+    position: absolute;
+    width: 2vw;
+    top: 23%;
+    left: 50%;
+    height: 63vw;
+}
+
+.p1{
+    position: absolute;
+    width: 2.5vw;
+    top: 24%;
+    left: 23%;
+}
+.p2{
+    position: absolute;
+     width: 3.3vw;
+    top: 39%;
+    left: 72%;
+}
+.p3{
+    position: absolute;
+    width: 2.8vw;
+    top: 60%;
+    left: 23%;
+}
+.p4{
+    position: absolute;
+    width: 3.3vw;
+    top: 80%;
+    left: 80%;
+}
+
+.r2{
+    position: absolute;
+    width: 4.5vw;
+    left: 88%;
+    top:61%;
+}
+.r3{
+    position: absolute;
+    width: 3.5vw;
+    right: 2%;
+    top: 98%;
+}
+.r4{
+    position: absolute;
+    width: 4.5vw;
+    top: 82%;
+    left: 0%;
+}
+.r5{
+    position: absolute;
+    width: 3.5vw;
+    left: 7%;
+    top: 42%;
+}
+/* --------------------------------------join-sec------------------------- */
+.join-sec{
+  
+    margin-top: 19vw;
+    position: relative;
+}
+.join-box{
+    background-image: url(../images/join-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 76%;
+    height: 25vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0vw;
+  
+
+
+}
+.join-box h4{
+    font-size: 4vw;
+}
+.join-box .telegram-btn{
+    width: 12vw;
+    margin-top: 2vw;
+    transition: .3s;
+}
+.join-box .telegram-btn:hover{
+    opacity: .9;
+    transform: translateY(-1px);
+}
+.right-side{
+    text-align: center;
+    margin-left: -4vw;
+}
+
+.gif7{
+
+    left: 5%;
+    width: 75%;
+    height: 27vw;
+    transform: translateY(-3vw);
+   
+   
+}
+.join-sec .g1{
+    position: absolute;
+    width:5vw;
+    left: 88%;
+    top: 12%;
+}
+/* ------------------------foter-sec------------------------------- */
+.foter-sec{
+    background-image: url(../images/bg1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 37vw;
+    margin: auto;
+    margin-top: 5vw;
+ 
+    
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 13vw;
+
+}
+.clm-1{
+    width: 35%;
+}
+.clm-1 h4{
+    font-size: 3vw;
+    color: #000;
+
+}
+.clm-1 p{
+    font-size: 2vw;
+    color: #000;
+    width: 86%;
+    line-height: 2vw;
+
+}
+.clm-2{
+    width: 30%;
+}
+.clm-2 h4{
+    font-size: 3vw;
+    color: #000;
+    text-transform: uppercase;
+
+}
+.clm-2 img{
+    width: 8vw;
+    transition: .3s;
+    
+}
+.clm-2 img:hover{
+    opacity: .8;
+}
+
+.clm-2 .btn-three{
+    width: 8vw;
+    margin-top: .5vw;
+}
+.btnss{
+    margin-top: 1.5vw;
+    display: flex;
+    gap: 1vw;
+    
+}
+.clm-3{
+    width: 5%;
+}
+.clm-3 h4{
+    font-size: 3vw;
+    color: #000;
+    text-transform: uppercase;
+    margin-top: -4vw;
+
+}
+.icuns{
+    display: flex;
+    gap: 1vw;
+}
+.clm-3 img{  
+    transition: .3s;
+    gap: 1vw;
+    width: 4vw;
+    margin-top: 2vw;
+    
+}
+.clm-3 img:hover{
+    transform: translateY(-2px);
+}
+.lines{
+    width: 88%;
+    height: 1px;
+    background-color: #000;
+    margin: auto;
+    margin-top: 4vw;
+}
+.end{
+    font-size: 2vw;
+    color: #000;
+    text-align: center;
+    margin-top: 2vw;
+}
+/* ------ */
+.box1 img{
+    width: 18vw;
+    animation: flipInY 2S cubic-bezier(0.165, 0.84, 0.44, 1)  infinite alternate;
+}
+.box2 img{
+    width: 18vw;
+    animation: flipInY 2S cubic-bezier(0.165, 0.84, 0.44, 1)  infinite alternate;
+}
+.box3 img{
+    width: 18vw;
+    animation: flipInY 2S cubic-bezier(0.165, 0.84, 0.44, 1)  infinite alternate;
+}
+}
